@@ -8,10 +8,10 @@ A structured collection of my solutions to **LeetCode problems**, focused on imp
 
 | Difficulty | Solved |
 | :--------- | -----: |
-| 🟢 Easy    |      0 |
+| 🟢 Easy    |      1 |
 | 🟡 Medium  |      0 |
 | 🔴 Hard    |      0 |
-| **Total**  |  **0** |
+| **Total**  |  **1** |
 
 ---
 

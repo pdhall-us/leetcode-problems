@@ -47,17 +47,17 @@ leetcode-problems/
 │
 ├── Easy/
 │   └── 0001-two-sum/
-│       ├── problem.md
+│       ├── README.md
 │       └── solution.py
 │
 ├── Medium/
 │   └── 0003-longest-substring-without-repeating-characters/
-│       ├── problem.md
+│       ├── README.md
 │       └── solution.py
 │
 ├── Hard/
 │   └── 0042-trapping-rain-water/
-│       ├── problem.md
+│       ├── README.md
 │       └── solution.py
 │
 └── README.md
